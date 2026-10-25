@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_search.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_open.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_open.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_account.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_account.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.searcher-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_tune.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_tune.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_desktop.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_desktop.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_bg_status.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/bg_status.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_play.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_bg_header.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_points.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_points.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_bg_tile_claim.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/bg_tile_claim.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_timer.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_timer.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_logout.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_icon_refresh.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_icon_refresh.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_more_vert.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_more_vert.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_open_in_new.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_open_in_new.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_bg_header_account.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/bg_header_account.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_trophy.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_trophy.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_fullscreen.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_fullscreen.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_login.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_login.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_close.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_stop.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_bg_tile_lifetime.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/bg_tile_lifetime.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_refresh.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_bg_tile_points.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/bg_tile_points.xml"
+    },
+    {
+        "merged": "com.example.searcher-debug-32:/drawable_ic_gift.xml.flat",
+        "source": "com.example.searcher-main-34:/drawable/ic_gift.xml"
+    }
+]
